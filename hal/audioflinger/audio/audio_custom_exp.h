@@ -145,6 +145,6 @@ typedef enum
 #define PHONE_MIC_MODE (1)
 #define HEADSET_MIC_MODE (1)
 //#define MAIN_REF_MIC_INVERSE 0
-#define USING_EXTAMP_HP
+//#define USING_EXTAMP_HP
 #endif
 
